@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("lista_11")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("teste_gitbub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d03eaa075c8195acc300aaff619a932407e48f")]
-[assembly: System.Reflection.AssemblyProductAttribute("lista_11")]
-[assembly: System.Reflection.AssemblyTitleAttribute("lista_11")]
+[assembly: System.Reflection.AssemblyProductAttribute("teste_gitbub")]
+[assembly: System.Reflection.AssemblyTitleAttribute("teste_gitbub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
